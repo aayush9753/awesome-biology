@@ -218,6 +218,8 @@ Bioinformatics
 * [Introduction to Protein-DNA Interactions by *Gary Stormo*](http://www.amazon.es/Introduction-Protein-DNA-Interactions-Thermodynamics-Bioinformatics/dp/1936113503?tag=duc0d-21)
 * [Introduction to Genomics by *Arthur M. Lesk*](http://global.oup.com/uk/orc/biosciences/evolution/leskgenomics2e/)
 * [Theory of Basic Alignment Search Tool (BLAST)](http://etutorials.org/Misc/blast/)
+* * [Theory of Basic Alignment Search Tool (BLAST)](http://etutorials.org/Misc/blast/)
+
 
 Structural Biology | Proteins
 -----------------------------
@@ -319,3 +321,6 @@ Competitions
 * [ISCB Wikipedia Competition](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computational_Biology/ISCB_competition_announcement_2016)
 * [Open Science Prize](https://www.openscienceprize.org)
 * [sbv IMPROVER Challenges](https://sbvimprover.com/)
+
+These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis. There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
+# [CompBio Skills Seminar](https://ccbskillssem.github.io/)
