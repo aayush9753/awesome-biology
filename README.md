@@ -323,4 +323,5 @@ Competitions
 * [sbv IMPROVER Challenges](https://sbvimprover.com/)
 
 These seminars are taught by graduate students and focus on software tools, techniques, and libraries that are useful for researchers performing computation and data analysis. There is an emphasis on subjects related to the biological sciences, but many of the techniques are general and the seminar is open to researchers in all disciplines.
-# [CompBio Skills Seminar](https://ccbskillssem.github.io/)
+### [CompBio Skills Seminar](https://ccbskillssem.github.io/)
+### [Bioinformatics Notes](https://github.com/mdozmorov/Bioinformatics_notes)
